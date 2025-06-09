@@ -10,6 +10,7 @@ A collection of beginner-friendly Java programs and exercises. This repository i
 | `Marks.java`  | Simple marks evaluation logic.                   |
 | `Number.java` | Determines number characteristics (e.g. positive, negative, even, etc.). |
 | `Year.java`   | Checks whether a year is a leap year.            |
+| `TeleBill.java`   | Calculates telephone bill with tiered rate structure and 10% surcharge.           |
 
 ---
 
